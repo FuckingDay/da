@@ -91,6 +91,7 @@ publishing:
         - root
     enableSiteLastModified: true
     siteRootDir: docs
+    assetsPrefix: /da
     siteUrl: https://fuckingday.github.io
     enableFrontmatterTags: true
     enableHashesForFMTags: false
